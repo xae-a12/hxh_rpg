@@ -1,0 +1,34 @@
+-HERANÇA SIMPLES
+CLASSE PERSONAGEMS EXTENDS CLASSE_DE_PERSONAGENS 
+
+
+
+SUPERCLASSE > CLASSE_DE_PERSONAGENS
+
+-especialidade(classe)
+-habilidade
+
+
+CLASSE > PERSONAGEM
+
+-nome
+-especialidade''''
+-habilidade
+-ataque
+-defesa
+-hp
+-mana
+
+OBJETO 
+
+
+
+OS OBJETOS A SEGUIR SERÃO GERADOS DA CLASSE: 
+
+KURAPIKA; 
+KILLUA;
+GON;
+HISOKA;
+ILLUMI;
+CHROLLO;
+
