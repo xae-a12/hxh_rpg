@@ -1,0 +1,63 @@
+historia  : resumo geral
+
+
+
+a historia do jogo se passa no ambiente de Greed Island, uma etapa do exame hunter para conseguir a licença Hunter. 
+o objetivo dos personagens é enfrentar os monstros da ilha, e fazer amizades,
+e também eliminar inimigos candidatos, para conseguir passar na prova.
+
+
+Objetos serão: 
+os personagens players
+e os monstros (npc).
+
+
+iniciar jogo:
+
+Bem vindo à ilha de Greed Island. 
+
+Um Hunter (ハンタ Hantā), é um membro VIP da sociedade humana, um  hunter possui uma Licença Hunter que lhe concede o direito ir a qualquer lugar do mundo e fazer quase tudo. Normalmente, os Hunter se dedicam a rastrear itens inestimáveis, lugares místicos e as maravilhas escondidas do mundo. 
+Com um espírito aventureiro e o uso de NEN, os Hunters são procurados por governos e iniciativas privadas para agir no descobrimento de coisas novas e raras, prender criminosos, realizar serviços sujos de forma eficiente, realizar grandes feitos à humanidade, entre outras coisas, que estejam ligadas ao seu objetivo pessoal. Além de todas as facilidades que uma licença Hunter pode proporcionar, a maior vantagem de um hunter é a liberdade de escolha de seus serviços.
+
+Para obter uma licença Hunter deve-se passar no rigoroso Exame Hunter, organizado pela Associação de Hunters, que tem uma taxa de aprovação inferior a 1 em cem mil.
+
+O seu objetivo nesse jogo será a obtenção da sua licença hunter, e para isso será necessario atravessar até o outro lado dessa ilha, com vida, enquanto faz novas amizades.
+
+
+
+Por favor, escolha seu personagem:
+
+Killua : resumo
+
+Killua Zoldyack, um menino de 14 anos, nasceu como o filho do meio de uma renomada família de assassinos, os Zoldyack.  Killua seguiu a criação tradicional dos Zoldyeck desde seu nascimento até então, mas agora ele não quer mais seguir seu destino de assassino empregado pelos outros, e deseja conquistar a sua liberdade.
+
+
+Gon : resumo
+
+O objetivo de Gon é encontrar o seu pai Ging Freaks, um renomado hunter profissional que o abandonou com sua tia quando ele ainda era um bebê. Resoluto a fim de encontrá-lo, Gon é um garoto simples e amigável que ama a natureza e que está sempre em busca de uma aventura.  
+
+
+Kurapica : resumo
+
+Kurapika (クラピカ) é o último sobrevivente do Clã Kurta. A inteligência é sua notoriedade. Seu objetivo é vingar seu clã e recuperar os  Olhos Escarlates roubados pelo grupo criminoso da Aranha. Os membros dos clã Kurata possuem  olhos que mudam de sua cor natural (geralmente castanhos) para vermelho em momentos de raiva ou agitação emocional.
+
+
+Hisoka : resumo
+
+Hisoka (ヒソカ) né um mágico com grandes habilidades, muito misterioso, é considerado por muitos como um louco, o joker. Ele tem pintado em seu rosto uma estrela rosa, abaixo de seu olho direito, e uma lágrima azul abaixo de seu olho esquerdo. Seu personagem é um enigma que fala pouco sobre seu passado, porque ele não está interessado nele. Hisoka é um membro da Aranha.
+
+
+
+Illumi : resumo
+
+
+Illumi Zaoldyeck é o irmão mais velho de Killua, usa como arma as agulhas Anchi (agulhas secretas). Illumi, na maior parte, demonstra muita pouca expressão em seu rosto. Em contraste com seu comportamento inexpressivo, Illumi muitas vezes fala em um tom um tanto alegre e distraído. Ainda assim, ele tem uma forma retorcida e superprotetora de amor por seu irmão mais novo, Killua.
+
+
+
+Chrollo Lucilfer: resumo
+
+
+Ele o líder do Genei Ryodan. Chrollo mostra calma mesmo em situações difíceis, ele é um homem de fala mansa, frio, inteligente e carismático, pois parece ser um líder nato e capaz de manter a Aranha unida, sua principal habilidade é roubar habilidades de outros e armazenar em um livro que ele materializa, chamado Caçador de Habilidades. A vítima do roubo não consegue usar mais sua habilidade.
+
+
